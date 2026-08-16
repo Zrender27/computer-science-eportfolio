@@ -34,10 +34,9 @@ The completed enhancements and supporting narratives can be viewed in the corres
 
 ## Code Review Video
 
-My CS 499 Milestone One code review video demonstrates the original artifacts and discusses the enhancements planned for each project.
+The following video presents my CS 499 code review of the original artifacts and discusses the enhancements planned for software design and engineering, algorithms and data structures, and database development.
 
-**Code Review Video:** Available in this folder.
-
+▶️ **[Watch My CS 499 Code Review on YouTube](https://youtu.be/6S1F-xV7ztA)**
 ---
 
 [Return to ePortfolio Home](../)
