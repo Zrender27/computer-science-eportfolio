@@ -35,7 +35,10 @@ As I begin my professional career, I intend to continue developing my skills in 
 
 My code review demonstrates my ability to examine existing software, identify strengths and weaknesses, and develop plans for meaningful improvements. The review addresses software design and engineering, algorithms and data structures, database development, and security considerations.
 
-**Code Review Video:** Link coming soon
+
+View my initial code review and analysis of the artifacts selected for enhancement.
+
+[View Code Review](./code-review/)
 
 ---
 
@@ -43,10 +46,9 @@ My code review demonstrates my ability to examine existing software, identify st
 
 This artifact demonstrates my ability to evaluate and enhance an existing software application using software engineering principles. The enhancement focuses on improving areas such as organization, maintainability, functionality, and overall software quality.
 
-**Original Artifact:** Link coming soon
-**Enhanced Artifact:** Link coming soon
-**Enhancement Narrative:** Link coming soon
-**GitHub Repository:** Link coming soon
+Explore the Smart Thermostat project, including the original artifact, enhanced artifact, and supporting narrative.
+
+[View Software Design & Engineering Artifact](./software-engineering/)
 
 ---
 
@@ -54,10 +56,7 @@ This artifact demonstrates my ability to evaluate and enhance an existing softwa
 
 This artifact demonstrates my ability to apply algorithmic principles and computer science practices to improve an existing computing solution. The enhancement demonstrates problem solving, evaluation of design choices, and consideration of efficiency and maintainability.
 
-**Original Artifact:** Link coming soon
-**Enhanced Artifact:** Link coming soon
-**Enhancement Narrative:** Link coming soon
-**GitHub Repository:** Link coming soon
+[View Algorithms & Data Structures Artifact](./algorithms-data-structures/)
 
 ---
 
@@ -65,10 +64,8 @@ This artifact demonstrates my ability to apply algorithmic principles and comput
 
 This artifact demonstrates my ability to design and work with data-driven applications while considering organization, reliability, validation, security, and maintainability. The enhancement reflects my growing understanding of how database design and application development work together to support effective software solutions.
 
-**Original Artifact:** Link coming soon
-**Enhanced Artifact:** Link coming soon
-**Enhancement Narrative:** Link coming soon
-**GitHub Repository:** Link coming soon
+
+[View Database Development Artifact](./database-development/)
 
 ---
 
