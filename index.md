@@ -99,7 +99,27 @@ The work presented throughout this portfolio demonstrates my ability to:
 5. Apply a security-focused mindset to identify vulnerabilities, mitigate design flaws, and protect data and computing resources.
 
 ---
+## Explore My ePortfolio
 
+### 🎥 Code Review
+View my initial code review and analysis of the artifacts selected for enhancement.
+
+[View Code Review](./code-review/)
+
+### 💻 Software Design and Engineering
+Explore the Smart Thermostat project, including the original artifact, enhanced artifact, and supporting narrative.
+
+[View Software Design & Engineering Artifact](./software-engineering/)
+
+### 🧠 Algorithms and Data Structures
+Explore the CartPole Reinforcement Learning project and the enhancements demonstrating algorithms, data structures, and performance analysis.
+
+[View Algorithms & Data Structures Artifact](./algorithms-data-structures/)
+
+### 🗄️ Database Development
+Explore the Animal Shelter Database project, including the original and enhanced database artifacts and supporting narrative.
+
+[View Database Development Artifact](./database-development/)
 ## Contact
 
 **Zoe Render**
