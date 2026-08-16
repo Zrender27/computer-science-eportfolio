@@ -129,9 +129,3 @@ Before running the project:
 > **Security Note:** Database usernames, passwords, connection strings containing credentials, API keys, or other sensitive information should not be committed to a public GitHub repository.
 
 ---
-
-## AI Usage Disclosure
-
-AI-assisted tools were used during the development and presentation of this ePortfolio to support brainstorming, documentation refinement, code review, and visual design. AI-generated material was reviewed and adapted to reflect my project, implementation decisions, and understanding of the work presented.
-
-The portfolio visual accompanying this artifact was generated with ChatGPT to provide a visual representation of the database-development enhancement.
